@@ -3,10 +3,10 @@
   xmlns:atom="http://www.w3.org/2005/Atom"
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>야망찬 개발자의 블로그</title>
-    <link>https://sowon-dev.github.io/</link>
+    <title>일하는 팬더 블로그</title>
+    <link>https://dawonparkk.github.io/</link>
     
-    <atom:link href="https://sowon-dev.github.io/rss2.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://dawonparkk.github.io/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description></description>
     <pubDate>Sun, 07 Mar 2021 14:43:28 GMT</pubDate>
